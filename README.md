@@ -1,12 +1,12 @@
 # Car_price_prediction
-Objective
+##Objective
 
 In this project I'm trying to analyse and visualize the used car prices from the dataset availabe at Kaggle in order to predict the most probable car prices with the use of basic linear regression models: Linear Regression, Ridge Regression, Lasso Regression and ElasticNet Regression.
 
 Vehicle dataset from cardekho : https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho
 
 
-Dataset Description
+##Dataset Description
 
 This dataset contains information about used cars listed on www.cardekho.com. We are going to use for finding predictions of price with the use of regression models.
 Size of the dataset : 301 records * 9 features
