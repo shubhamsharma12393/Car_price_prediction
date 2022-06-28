@@ -9,7 +9,10 @@ Vehicle dataset from cardekho : https://www.kaggle.com/nehalbirla/vehicle-datase
 ##Dataset Description
 
 This dataset contains information about used cars listed on www.cardekho.com. We are going to use for finding predictions of price with the use of regression models.
+
 Size of the dataset : 301 records * 9 features
+
+
 The datasets consist of several features include:
 
     Car_Name : This column should be filled with the name of the car.
